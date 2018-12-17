@@ -1,0 +1,6 @@
+Repository contains Matlab code to calculate difference in Hydogen Exchange rates between two sets of peptides and visualize this difference for each peptide. These codes use output from HDExaminer as an input.
+There are two MATLAB files in the repository:
+"plot_difference_HDEx_LZ_*.m" is the main file where the calculation and visualization are made.
+"difference_plot_color_scheme.m" specified colors of the final image.
+"Free Protein 100s.csv" and "Protein with DNA 100s.csv" are examples outputs of HDExaminer. They can be used as test/demo files.
+"Free-With DNA 100s.pdf" is an example of a final figure, generated based on test .csv files.
